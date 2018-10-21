@@ -1,2 +1,2 @@
 # OOP
-Kumpulan Tugas PBO
+Object-Oriented-Programming-Python
